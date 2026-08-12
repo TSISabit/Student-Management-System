@@ -1,0 +1,8 @@
+Student ID: 142
+Name: Sabit
+342 | Marks: 88.0 | Grade: A+
+------------------------------------
+Student ID: 100
+Name: Bob Marley
+342 | Marks: 65.0 | Grade: B+
+------------------------------------
